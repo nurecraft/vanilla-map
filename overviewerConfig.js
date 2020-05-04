@@ -25,7 +25,7 @@ var overviewerConfig = {
     "map": {
         "north_direction": "lower-left",
         "debug": true,
-        "cacheTag": "1588575180",
+        "cacheTag": "1588578562",
         "controls": {
             "overlays": true,
             "coordsBox": true,
@@ -41,11 +41,9 @@ var overviewerConfig = {
             "imgextension": "jpg",
             "maxZoom": 11,
             "path": "nurecraft",
-            "forcerendertime": 0,
             "defaultZoom": 1,
             "zoomLevels": 11,
             "poititle": "Markers",
-            "render_in_progress": true,
             "spawn": [
                 83,
                 96,
@@ -56,7 +54,7 @@ var overviewerConfig = {
             "showlocationmarker": true,
             "minZoom": 0,
             "isOverlay": false,
-            "last_rendertime": 1588549040,
+            "last_rendertime": 1588559709,
             "north_direction": 0,
             "name": "NURECRAFT Daytime",
             "center": [
