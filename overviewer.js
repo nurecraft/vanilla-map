@@ -306,7 +306,7 @@ overviewer.util = {
         overviewer.map = L.map('mcmap', {crs: L.CRS.Simple});
 
         overviewer.map.attributionControl.setPrefix(
-            'for <a href="https://nurecraft.ml">NURECRAFT Server</a> by <a href="https://overviewer.org">Overviewer/Leaflet</a>');
+            '<a href="https://overviewer.org">Overviewer/Leaflet</a>');
 
         overviewer.map.on('baselayerchange', function(ev) {
             
