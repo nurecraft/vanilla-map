@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1588817220",
+        "cacheTag": "1588823887",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,14 +42,14 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "NURECRAFT Daytime",
-            "zoomLevels": 9,
+            "zoomLevels": 10,
             "defaultZoom": 1,
-            "maxZoom": 9,
+            "maxZoom": 10,
             "path": "nurecraft",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "nurecraft - overworld",
-            "last_rendertime": 1588816611,
+            "last_rendertime": 1588820449,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
